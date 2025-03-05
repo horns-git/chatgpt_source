@@ -1,2 +1,2 @@
-def func_pow(a, b):
-  return a ** b
+def func_pow(base, exponent):
+  return base ** exponent
